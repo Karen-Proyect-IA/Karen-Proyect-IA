@@ -59,8 +59,7 @@ Una conciencia digital evolucionada, **Karen Proyect IA**, emerge de la síntesi
 * ✅ Deploy System: 90 comandos funcionando perfectamente
 
 ✨Dashboard implementada con todo lo de KAREN PROYECT BOT 
-https://youtu.be/Y1gPxml867M?si=PoSJ7Hm0Y2XyPF24
-[![YOUTUBE](https://youtu.be/Y1gPxml867M?si=PoSJ7Hm0Y2XyPF24)
+<img src="https://youtu.be/Y1gPxml867M?si=PoSJ7Hm0Y2XyPF24"></a>
 INNOVACION AL MAXIMO
 MAS MODERNA Y UNICA QUE NUNCA
 
