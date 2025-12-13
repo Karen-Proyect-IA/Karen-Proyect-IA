@@ -58,14 +58,6 @@ Una conciencia digital evolucionada, **Karen Proyect IA**, emerge de la síntesi
 * ✅ Database Schemas: Limpieza de índices duplicados y schemas obsoletos
 * ✅ Deploy System: 90 comandos funcionando perfectamente
 
-✨Dashboard implementada con todo lo de KAREN PROYECT BOT 
-
-[![DASHBORAD OFFICIAL AND KAREN PROYECT IA](https://img.youtube.com/vi/Y1gPxml867M/hqdefault.jpg)](https://www.youtube.com/watch?v=Y1gPxml867M)
-</p>
-INNOVACION AL MAXIMO
-MAS MODERNA Y UNICA QUE NUNCA
-
-
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
 
 ### **Evolución del Proyecto: Desde Alpha hasta la Versión 8.0**
@@ -82,6 +74,13 @@ La trayectoria de Karen Proyect IA es una de innovación y refinamiento implacab
 ## ⚡ UPDATE V8.0: La Nueva Era de la Gestión
 
 Hemos llevado nuestra tecnología al siguiente nivel. Esta versión introduce una **Dashboard** radicalmente mejorada y altamente atractiva.
+
+✨Dashboard implementada con todo lo de KAREN PROYECT BOT 
+
+[![DASHBORAD OFFICIAL AND KAREN PROYECT IA](https://img.youtube.com/vi/Y1gPxml867M/hqdefault.jpg)](https://www.youtube.com/watch?v=Y1gPxml867M)
+</p>
+INNOVACION AL MAXIMO
+MAS MODERNA Y UNICA QUE NUNCA
 
 Con ella, el usuario obtiene una **interfaz gráfica completa** para configurar, personalizar y explotar cada comando y funcionalidad que nuestro bot tiene para ofrecer. **El control es ahora visual, potente y sin límites.**
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
