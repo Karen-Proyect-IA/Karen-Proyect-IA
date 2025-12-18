@@ -1,18 +1,18 @@
-## ❤️‍🔥 **`Karen - Evoluviona`**
+## ❤️‍🔥 **`Karen - Innova - Discord - Moderation`**
 
 ## 🔥 **`> 🚀 KAREN PROYECT IA v8.0 - CROSSAPPS UPDATE`**
 
 ![Typing SVG](https://github.com/user-attachments/assets/55414b85-9f6c-42c7-8703-4e3acfb3629a)
 <div align="center">
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](empyreahost@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](support@karendash.site)
 
 [![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.gg/vXPYXnf5Ed)
 [![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KJiCNwnRp3N84AAZLXB1JN)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/@AzuraEmpyrea)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EmpyreaCloud)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fenixseguritycloud)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PROXIMAMENTE)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/empyreacloud)
 
 </div>
 
